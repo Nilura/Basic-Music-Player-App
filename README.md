@@ -1,11 +1,9 @@
 # Basic Music Player App 
-<a href="/musicapp%5B1%5D.apk" download>Download App</a><br>
+
 
 A basic music player app, where you can upload your favourite songs and enjoy songs peacefully.
 
-<p>
-  <img src="https://github.com/gaurangkeluskar22/Basic-Music-Player-App/blob/master/images/front1.png"></img>
-</p>
+
 
 
 ## Dependencies
