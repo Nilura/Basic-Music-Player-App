@@ -38,3 +38,4 @@ A basic music player app, where you can upload your favourite songs and enjoy so
    &nbsp&nbsp&nbsp&nbsp
 <img src="https://github.com/gaurangkeluskar22/Basic-Music-Player-App/blob/master/images/spongplay2.jpeg" width="260"/>
 </p>
+https://img.shields.io/github/stars/Nilura/Basic-Music-Player-App?style=social
